@@ -1,5 +1,28 @@
+      html {
+          font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+      }
 
-        ul {
-            color: #2A2625; font-size:30px;
-        }
-        .purple {color: #AB0053; font-size: 30px;
+      p {
+          color: black;
+          font-size: 35px;
+      }
+
+      h1 {
+          color: #AB0053;
+          font-size: 40px;
+      }
+
+      ul {
+          color: #2A2625;
+          font-size: 30px;
+      }
+
+      .purple {
+          color: #AB0053;
+          font-size: 30px;
+      }
+
+      h2 {
+          color: black;
+          font-size: 35px;
+      }
